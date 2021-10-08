@@ -1,2 +1,2 @@
 # Mesa
-Local onde eu armazeno os meus estudos em desenvolvimento front-end.
+Meu repositório onde eu armazeno o meu progresso nos cursos de programação.
